@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Kapil",
+      "lastName": "Ashok Bachchani",
+      "rating": "5",
+      "mobileNumber": "8457837822",
+      "email": "kapil@gmail.com",
+      "feedback": "Really nice products. Impressed by the service"
+    },
+    {
+      "id": 2,
+      "firstName": "Darshil",
+      "lastName": "Patel",
+      "rating": 4,
+      "mobileNumber": "9099568956",
+      "email": "darshil01@yahoo.com",
+      "feedback": "Awesome service. Mobile repairing was too fast"
+    },
+    {
+      "id": 3,
+      "firstName": "Kanishk",
+      "lastName": "Dhanwani",
+      "rating": "3",
+      "mobileNumber": "7226936935",
+      "email": "kanishk231@gmail.com",
+      "feedback": "Loved mobile covers designed a lot."
+    },
+    {
+      "firstName": "Ravi",
+      "lastName": "Verma",
+      "mobileNumber": "8975358988",
+      "email": "raviup@gmail.com",
+      "feedback": "Wow",
+      "rating": "3",
+      "id": 5
+    },
+    {
+      "firstName": "jkasd",
+      "lastName": "jhasb",
+      "mobileNumber": "8978976897",
+      "email": "jhsb@gmail.com",
+      "feedback": "gf",
+      "rating": "3",
+      "id": 6
+    },
+    {
+      "firstName": "sd",
+      "lastName": "das",
+      "mobileNumber": "8979789789",
+      "email": "djhsd@gmail.com",
+      "feedback": "bjh",
+      "rating": "3",
+      "id": 7
+    },
+    {
+      "firstName": "sd",
+      "lastName": "sd",
+      "mobileNumber": "7867867867",
+      "email": "jvj@gmail.com",
+      "feedback": "m",
+      "rating": "1",
+      "id": 8
+    },
+    {
+      "firstName": "sdsd",
+      "lastName": "sdsd",
+      "mobileNumber": "7878787777",
+      "email": "sdjh@gmail.com",
+      "feedback": "wew",
+      "rating": "4",
+      "id": 9
+    }
+  ]
+}

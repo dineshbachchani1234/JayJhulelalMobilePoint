@@ -1,0 +1,51 @@
+  
+  .navbar-brand {
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+    font-size: 1.5rem;
+    background-color: rgba(82, 55, 55, 0.25);
+    box-shadow: inset -1px 0 0 rgba(112, 81, 81, 0.25);
+  }
+
+
+  a:hover  {
+    transform: scale(1.05);
+  }
+  .zoom:hover
+    {
+      transform: scale(1.2);
+  }
+  .homeimage
+  {
+      width: 100%;
+      height: 100%;
+  }
+  
+  /* Bottom left text */
+  .top-left {
+    position: absolute;
+    font-size: 2cm;
+    font-family: cursive;
+    top: 86px;
+    color: blueviolet;
+    left: 420px;
+  }
+
+
+  .example-card {
+    max-width: 400px;
+
+  }
+  
+  .example-header-image1 {
+    background-image: url('https://fdn.gsmarena.com/imgroot/news/19/12/top-phones-of-2019/-727/gsmarena_001.jpg');
+    background-size: cover;
+  }
+  .example-header-image2 {
+    background-image: url('https://previews.123rf.com/images/jamakosy/jamakosy1711/jamakosy171100563/90509822-a-process-of-mobile-phone-repairing-and-other-gadgets.jpg');
+    background-size: cover;
+  }
+  .example-header-image3 {
+    background-image: url('https://www.notebookcheck.net/fileadmin/_processed_/b/2/csm_VARIOUSTABS_4672539c65.jpg');
+    background-size: cover;
+  }

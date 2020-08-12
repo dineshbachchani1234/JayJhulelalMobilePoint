@@ -1,0 +1,57 @@
+
+.prod
+{
+    margin-top: 2cm;
+    margin-left: 3cm;
+    width: 50%;
+    border-radius: 0.5cm;
+    height: 70%;
+}
+.prod:hover
+{
+    transform: scale(1.1);
+}
+.heading
+{
+    text-align: center;
+    font-size: 38px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-variant: small-caps;
+
+}
+.headphones
+{
+    margin-top: 1em;
+    margin-left: 3.8cm;
+    font-size: medium;
+
+}
+td i {
+    align-content: center;
+}
+
+
+@media only screen and (max-width: 400px) {
+.headphones{
+ 
+margin-left: 30%;
+}
+
+
+.prod
+{
+    margin-left: 27%;    
+}
+}
+
+@media only screen and (orientation: landscape) {
+    .headphones{
+ 
+        margin-left: 30%;
+        }
+        .prod
+        {
+            margin-left: 27%;    
+        }
+}

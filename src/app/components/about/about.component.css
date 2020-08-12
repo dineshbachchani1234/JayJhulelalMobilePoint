@@ -1,0 +1,80 @@
+.shop
+{
+    width: 70%;
+    height: 70%;
+    margin-top: 2cm;
+    margin-left: 1cm;
+    border-radius: 2em;
+}
+.h{
+    margin-top: 3cm;
+    margin-left: 1cm;
+    font-size:24px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.about
+{
+    margin-left: 1cm;
+    font-weight: bolder;
+    font-style: inherit;
+    font-variant: small-caps;
+}
+.mission
+{ margin-left: 1cm;
+    font-size: large;
+    color: brown;
+
+}
+.vision
+{
+    margin-left: 1cm;
+    font-size: large;
+    color: steelblue;
+
+}
+.para
+{
+    margin-left: 1cm;
+    font-size: medium;
+    line-height: 2.0;    
+}
+.owner
+{
+    color: rgb(15, 36, 228);
+    font-size: large;
+
+}
+.text-block {
+    position: absolute;
+    font-weight: bold;
+    bottom: -150px;
+    left: 400px;
+    background-color: rgb(37, 161, 199);
+    color: rgb(3, 3, 3);
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .merchant
+  {
+      margin-top: 1cm;
+      font-weight: bolder;
+      font-family:Arial, Helvetica, sans-serif;
+      
+  }
+
+.tallu
+{
+height: 10%;
+}
+
+mat-icon.mat-card-avatar {
+    width: 40px;
+    height: 40px;
+    font-size: 40px;
+  }
+  @media only screen and (max-width: 800px) {
+.a
+{
+    margin-top: -4cm;
+}
+  }

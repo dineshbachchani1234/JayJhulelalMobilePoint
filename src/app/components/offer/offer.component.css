@@ -1,0 +1,111 @@
+.rakhi
+{
+    margin-top: 2cm;
+    width: 90%;
+    height: 80%;
+}
+.discount
+{
+    margin-left: 2cm;
+    font-size: 28px;
+    text-decoration: line-through;
+   
+}
+.discount2
+{
+    margin-left: 4.9cm;
+    font-size: 32px;
+    margin-top: -0.8cm;
+   }
+   .discount3
+   {
+       font-size: 26px;
+       text-align: center;
+   }
+.pad
+{
+    margin-left: 1.5cm;
+    padding-top: 1cm;
+    padding-bottom: 0.3cm;
+    background-color: #007bff;
+    width: 60%;
+    box-shadow: 2px 2px 10px #DADADA;
+    border-radius: 5px;
+}
+.pad:hover{
+    box-shadow: 0 16px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.tuffen
+{
+    margin-left: 1.5cm;
+    padding-top: 1cm;
+    padding-bottom: 0.8cm;
+    background-color: #66bb6a;
+    width: 60%;
+    box-shadow: 2px 2px 10px #DADADA;
+    border-radius: 5px;
+}
+.tuffen:hover{
+    box-shadow: 0 16px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.exchange
+{
+
+margin-left: 1.5cm;
+    padding-top: 1cm;
+    padding-bottom: 0.8cm;
+    background-color: #ef5350;
+    width: 60%;
+    box-shadow: 2px 2px 10px #DADADA;
+    border-radius: 5px;
+}
+.exchange:hover
+{ 
+    box-shadow: 0 16px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.sale
+{
+
+margin-left: 1.5cm;
+    padding-top: 1cm;
+    padding-bottom: 0.8cm;
+    background-color:yellow;
+    width: 60%;
+    box-shadow: 2px 2px 10px #DADADA;
+    border-radius: 5px;
+}
+.sale:hover
+{ 
+    box-shadow: 0 16px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+@media only screen and (max-width: 700px) 
+ {  
+      .discount2
+     {
+         margin-left: -1cm;
+     } 
+     .rakhi{
+        width: 100%;
+         height: 70%;
+        
+        
+
+     }
+      .discount2
+     {
+         margin-left: 1cm;
+         margin-top: 0.2cm;
+         }
+     .tuffen{
+         margin-left: 10%;
+        width: 80%;
+        height: 20%
+     }  
+     .pad{
+        margin-left: 10%;
+        width: 80%;
+        height: 20%
+     }
+}
